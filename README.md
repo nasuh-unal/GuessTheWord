@@ -11,13 +11,13 @@ You will modify the app to use Architecture components and best practices.
 Project Features
 --------------
 
-- Navigation Architecture Component
-- Passing the data between navigation destinations.
 - View Model
 - LiveData & LiveData Observer
 - ViewModel & LiveData with Data Binding
 - LiveData Transaction
 - Binding Adapter
+- Navigation Architecture Component
+- Passing the data between navigation destinations.
 
 
 License
