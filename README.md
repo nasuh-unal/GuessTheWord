@@ -1,7 +1,6 @@
 ViewModel and ViewModelFactory - Starter Code
 ==================================
 
-Use as starter code for the ViewModel codelab.
 
 Introduction
 ------------
@@ -12,18 +11,14 @@ You will modify the app to use Architecture components and best practices.
 Project Features
 --------------
 
-You need to know:
-- How to open, build, and run Android apps with Android Studio.
-- How to use the Navigation Architecture Component
+- Navigation Architecture Component
 - Passing the data between navigation destinations.
-- Read the logs using the Logcat.
+- View Model
+- LiveData & LiveData Observer
+- ViewModel & LiveData with Data Binding
+- LiveData Transaction
 - 
 
-
-Getting Started
----------------
-
-1. Download and run the app.
 
 License
 -------
