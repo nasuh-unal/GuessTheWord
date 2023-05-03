@@ -17,7 +17,7 @@ Project Features
 - LiveData & LiveData Observer
 - ViewModel & LiveData with Data Binding
 - LiveData Transaction
-- 
+- Binding Adapter
 
 
 License
