@@ -1,4 +1,4 @@
-ViewModel and ViewModelFactory - Starter Code
+Guess The Word App
 ==================================
 
 
