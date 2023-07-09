@@ -20,6 +20,11 @@ Project Features
 - Navigation Architecture Component
 - Passing the data between navigation destinations.
 
+Images
+--------------
+<img src="https://github.com/nasuh-unal/GuessTheWord/assets/88931522/385d31f6-1560-48c8-bf52-10875aea44ee" width=300 height=600>
+<img src="https://github.com/nasuh-unal/GuessTheWord/assets/88931522/a8750419-7fb7-40e5-88cd-07a41398f7f5" width=300 height=600>
+<img src="https://github.com/nasuh-unal/GuessTheWord/assets/88931522/1994cfe9-c641-4a4f-a887-abfe37e3b7f3" width=300 height=600>
 
 
 License
